@@ -6,7 +6,7 @@
 
 Freelancer Behavior Lab is an interactive Excel dashboard built to analyze freelancer productivity, burnout risk, deep work habits, focus levels, and client satisfaction.
 
-The project was developed using Microsoft Excel, Power Query, and VBA to turn raw data into an interactive dashboard with automation, theme switching, navigation, and data visualization.
+The project was developed using Microsoft Excel, Power Query, and VBA to transform raw data into an interactive dashboard with automation, theme switching, navigation, and data visualization.
 
 ---
 
@@ -40,7 +40,7 @@ The dashboard combines KPI cards, charts, heatmaps, and summary panels to presen
 
 ## Methodology
 
-The dashboard is based on work activity data, productivity scores, burnout indicators, deep work sessions, and client satisfaction metrics. Power Query is used for data preparation, while VBA powers the automation and interactive user interface.
+The dashboard is built using work activity data, productivity scores, burnout indicators, deep work sessions, and client satisfaction metrics. Power Query is used for data preparation, while VBA powers the automation and interactive user experience.
 
 ---
 
@@ -62,14 +62,17 @@ The dashboard is based on work activity data, productivity scores, burnout indic
 
 ## Download
 
-* **Freelancer_Behavior_Lab_v1.0.xlsx** — Standard version for exploring the dashboard structure and formulas.
-* **Freelancer_Behavior_Lab_Pro_v1.0.xlsm** — Full version with VBA automation, navigation, theme switching, and refresh functionality.
+Choose the version that best fits your needs:
+
+* **[Freelancer_Behavior_Lab_v1.0.xlsx](dashboard/Freelancer_Behavior_Lab_v1.0.xlsx)** — Standard version for exploring the dashboard structure, formulas, and overall design.
+
+* **[Freelancer_Behavior_Lab_Pro_v1.0.xlsm](dashboard/Freelancer_Behavior_Lab_Pro_v1.0.xlsm)** — Full interactive version with VBA automation, navigation, theme switching, and refresh functionality.
 
 ---
 
 ## Using the Pro Version
 
-Windows may block macros in the **.xlsm** file because it was downloaded from the internet.
+Windows may block macros in the **.xlsm** workbook because it was downloaded from the internet.
 
 To enable all features:
 

@@ -60,6 +60,16 @@ The dashboard is built using work activity data, productivity scores, burnout in
 
 ---
 
+## 📌 Display Resolution
+
+This dashboard was designed and optimized for a **1920 × 1080 (16:9)** display.
+
+When viewed on lower screen resolutions (especially **1366 × 768**), some dashboard elements may appear compressed or slightly misaligned due to Excel's rendering behavior.
+
+For the best viewing experience, a display resolution of **1920 × 1080** or higher is recommended.
+
+---
+
 ## Download
 
 Choose the version that best fits your needs:
